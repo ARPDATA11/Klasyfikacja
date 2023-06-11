@@ -1,0 +1,12 @@
+,0
+BusinessTravel,['Travel_Rarely' 'Travel_Frequently' 'Non-Travel']
+Department,['Research & Development' 'Human Resources' 'Sales']
+EducationField,"['Life Sciences' 'Medical' 'Other' 'Technical Degree' 'Marketing'
+ 'Human Resources']"
+Gender,['Male' 'Female']
+JobRole,"['Laboratory Technician' 'Manufacturing Director' 'Research Scientist'
+ 'Human Resources' 'Research Director' 'Sales Representative' 'Manager'
+ 'Healthcare Representative' 'Sales Executive']"
+MaritalStatus,['Married' 'Single' 'Divorced']
+OverTime,['Yes' 'No']
+Attrition,['No' 'Yes']
